@@ -10,8 +10,8 @@
       "types": "./dist/index.d.ts"
     },
     "./herdr": {
-      "import": "./dist/multiplexer/herdr/index.js",
-      "types": "./dist/multiplexer/herdr/index.d.ts"
+      "import": "./src/multiplexer/herdr/index.ts",
+      "types": "./src/multiplexer/herdr/index.ts"
     },
     "./tui": {
       "import": "./dist/tui.js",
